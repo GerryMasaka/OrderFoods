@@ -1,0 +1,14 @@
+body{
+  
+
+}
+body input[type="text"]{
+  border: none;
+  border-bottom: 1px solid black;
+  background: transparent;
+  outline: none;
+  height: 40px;
+  color: black;
+  font-size: 16px;
+  opacity: 1;
+}
